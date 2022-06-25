@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Jarfiles/selenium-java-3.141.59 (1) (1)/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="D:/Jarfiles/selenium-java-3.141.59 (1) (1)/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Jarfiles/selenium-java-3.141.59 (1) (1)/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="D:/Jarfiles/selenium-java-3.141.59 (1) (1)/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/Jarfiles/selenium-java-3.141.59 (1) (1)/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="D:/Jarfiles/selenium-java-3.141.59 (1) (1)/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/Jarfiles/selenium-java-3.141.59 (1) (1)/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/commons-io-2.8.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/commons-io-2.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/commons-io-2.8.0-tests.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/commons-io-2.8.0-test-sources.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/poi-5.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/poi-examples-5.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/poi-excelant-5.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/poi-integration-5.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/poi-ooxml-5.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/poi-ooxml-full-5.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/poi-ooxml-lite-5.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/poi-scratchpad-5.0.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/apache jars/maven-artifact-3.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/apache jars/maven-builder-support-3.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/apache jars/maven-compat-3.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/apache jars/maven-core-3.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/apache jars/maven-embedder-3.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/apache jars/maven-model-3.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/apache jars/maven-model-builder-3.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/apache jars/maven-plugin-api-3.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/apache jars/maven-repository-metadata-3.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/apache jars/maven-resolver-api-1.6.2.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/apache jars/maven-resolver-connector-basic-1.6.2.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/apache jars/maven-resolver-impl-1.6.2.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/apache jars/maven-resolver-provider-3.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/apache jars/maven-resolver-spi-1.6.2.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/apache jars/maven-resolver-transport-wagon-1.6.2.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/apache jars/maven-resolver-util-1.6.2.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/apache jars/maven-settings-3.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/apache jars/maven-settings-builder-3.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/apache jars/maven-shared-utils-3.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/apache jars/maven-slf4j-provider-3.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/remaining apache/cdi-api-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/remaining apache/commons-cli-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/remaining apache/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/remaining apache/commons-lang3-3.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/remaining apache/guava-25.1-android.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/remaining apache/guice-4.2.1-no_aop.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/remaining apache/jansi-1.17.1.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/remaining apache/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/remaining apache/jcl-over-slf4j-1.7.29.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/remaining apache/jsoup-1.12.1.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/remaining apache/org.eclipse.sisu.inject-0.3.4.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/remaining apache/org.eclipse.sisu.plexus-0.3.4.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/remaining apache/plexus-cipher-1.7.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/remaining apache/plexus-component-annotations-2.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/remaining apache/plexus-interpolation-1.25.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/remaining apache/plexus-sec-dispatcher-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/remaining apache/plexus-utils-3.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/remaining apache/slf4j-api-1.7.29.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/remaining apache/wagon-file-3.4.3.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/remaining apache/wagon-http-3.4.3-shaded.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/testng jar files/remaining apache/wagon-provider-api-3.4.3.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
